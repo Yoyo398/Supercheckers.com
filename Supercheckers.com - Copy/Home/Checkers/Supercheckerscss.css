@@ -1,0 +1,20 @@
+h1 {
+	text-align:center;
+	color: lightgreen;
+	font-size:75px;
+}
+
+h2 {
+	text-align:center;
+	color: darkgreen;
+	font-size:30px;
+}
+h3 {
+	font-size:50px;
+	color:lightgreen;
+}
+
+p {
+	font-size:25px;
+	color:green;
+}
